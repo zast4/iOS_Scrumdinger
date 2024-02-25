@@ -1,10 +1,3 @@
-//
-//  ScrumdingerTests.swift
-//  ScrumdingerTests
-//
-//  Created by Даниил on 20.02.2024.
-//
-
 import XCTest
 @testable import Scrumdinger
 
