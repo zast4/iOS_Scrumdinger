@@ -11,7 +11,7 @@ Edit meeting                | Add new meeting |  Choose meeting theme | Meeting 
 <img src="Screenshots/edit_meeting.png" alt="drawing" width="810" />  | <img src="Screenshots/add_new_meeting.png" alt="drawing" width="810" />  |  <img src="Screenshots/choose_meeting_theme.png" alt="drawing" width="810" /> |  <img src="Screenshots/meetings_history.png" alt="drawing" width="625" />
 
 ## User flow
-![](Screenshots/userflow_gif.gif) 
+<img src="Screenshots/userflow_gif.gif" alt="drawing" width="300" />
 
 ## Features
 * SwiftUI 🦄
